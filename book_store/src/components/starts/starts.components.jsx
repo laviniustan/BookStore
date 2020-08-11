@@ -6,10 +6,12 @@ import './stars.style.scss'
 class Stars extends React.Component {
     state = { value: 0 };
     render() {
+      console.log(this.state.value, 'hell')
       return (
         <BeautyStars
           value={this.state.value}
           onChange={value => this.setState({ value })}
+
         />
       );
     }
