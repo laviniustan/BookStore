@@ -1,10 +1,10 @@
-.title{
+.book__infoCard--title{
     margin-top: 2rem;
     color: black;
     
 
 }
-.cardBook{
+.book__element--cardBook{
     color: #CCCCCC;
     display: flex;
     height:100%;
@@ -12,35 +12,33 @@
     background-color: rgb(149, 149, 149);
 }
 
-img{
+.book__element--cardBook .book__element--img img{
     height: 20rem;
     padding: 2rem;
     margin-top: -4rem;
+    transition: ease-in-out .2s;
 }
-.element{
+.book__element{
     padding: 3rem;
     margin-top: 2rem;
     width: 40rem;
     height: 23rem;
- 
+    
 }
-.star-parent{
+.book__infoCard--star-parent{
     margin-right: 3rem;
     padding-bottom: 2rem;
     padding: 10px 40px 20px 0;
     
 }
-img:hover{
-    transform: scale(1.1);
-    transition: ease-in-out .2s;
+.book__element--img :hover{
+    transform: scale(1.1);  
     cursor: pointer;
 }
-.more{
+
+.book__infoCard--more{
    
     float: right;
     margin-right: 2rem;
     margin-top: -2rem;
-}
-.infoCard{
-   
 }
