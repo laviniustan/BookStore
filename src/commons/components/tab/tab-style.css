@@ -1,3 +1,8 @@
 .active{
-    background-color: yellow;
+    /* background-color: yellow; */
+    border-bottom: 2px solid rgb(103, 212, 234) ;
+   
+}
+.tab__element{
+    cursor: pointer;
 }
