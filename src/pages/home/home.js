@@ -3,7 +3,7 @@ import BookCard from '../../commons/components/book-card/book-card'
 import Tabs from '../../commons/components/tabs/tabs'
 import './home.css'
 
-const tab = [
+const tabs = [
     'All Genres',
     'Business',
     'Science',
@@ -20,7 +20,7 @@ const Home = () => {
 
             <div >
  
-                            <Tabs tab={tab}onClick={setActiveIdx} activeIndex={activeIdx}/>
+                            <Tabs tabs={tabs}onClick={setActiveIdx} activeIndex={activeIdx}/>
     
 
             </div>

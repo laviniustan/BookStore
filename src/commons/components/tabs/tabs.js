@@ -1,19 +1,19 @@
 import React from 'react'
-import './tab.css';
+import './tabs.css';
 
 
 
-const Tabs = ({tab,onClick, activeIndex}) => {
+const Tabs = ({tabs,onClick, activeIndex}) => {
 
     return (
 
-        <div className='tab'>
+        <div className='tabs'>
 
             {
-                tab.map((val, index) => {
+                tabs.map((val, index) => {
                     return (
                         <div
-                            className={`tab__element ${activeIndex === index
+                            className={`tabs__element ${activeIndex === index
                                 ? 'active'
                                 : ''} `}>
                             {<p onClick={() => onClick(index)}>{val}</p>}

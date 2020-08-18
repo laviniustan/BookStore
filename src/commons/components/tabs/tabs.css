@@ -3,10 +3,10 @@
     border-bottom: 2px solid rgb(103, 212, 234) ;
    
 }
-.tab__element{
+.tabs__element{
     cursor: pointer;
 }
-.tab{
+.tabs{
     display: flex;
     height: 2rem;
     width: 40rem;
