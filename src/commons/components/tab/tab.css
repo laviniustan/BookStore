@@ -11,8 +11,9 @@
     height: 2rem;
     width: 40rem;
     
-     margin-right: 10rem; 
-    padding: 2rem;
+      margin-right: 10rem; 
+    /* padding: 2rem 0rem 0rem 0rem; */
+    margin-top: 2rem;
     margin-bottom: 1rem;
 
     
