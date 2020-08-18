@@ -1,16 +1,9 @@
 import React from 'react'
 import './tab.css';
 
-const tab = [
-    'All Genres',
-    'Business',
-    'Science',
-    'Fiction',
-    'Philosophy',
-    'Biography'
-]
 
-const Tab = ({onClick, activeIndex}) => {
+
+const Tabs = ({tab,onClick, activeIndex}) => {
 
     return (
 
@@ -33,4 +26,4 @@ const Tab = ({onClick, activeIndex}) => {
         </div>
     )
 }
-export default Tab
+export default Tabs

@@ -1,8 +1,16 @@
 import React, {useState} from 'react'
 import BookCard from '../../commons/components/book-card/book-card'
-import Tab from '../../commons/components/tab/tab'
+import Tabs from '../../commons/components/tabs/tabs'
 import './home.css'
 
+const tab = [
+    'All Genres',
+    'Business',
+    'Science',
+    'Fiction',
+    'Philosophy',
+    'Biography'
+]
 
 const Home = () => {
     const [activeIdx, setActiveIdx] = useState(null)
@@ -12,7 +20,7 @@ const Home = () => {
 
             <div >
  
-                            <Tab onClick={setActiveIdx} activeIndex={activeIdx}/>
+                            <Tabs tab={tab}onClick={setActiveIdx} activeIndex={activeIdx}/>
     
 
             </div>
