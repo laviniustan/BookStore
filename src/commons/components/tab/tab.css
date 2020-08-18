@@ -1,0 +1,19 @@
+.active{
+    /* background-color: yellow; */
+    border-bottom: 2px solid rgb(103, 212, 234) ;
+   
+}
+.tab__element{
+    cursor: pointer;
+}
+.tab{
+    display: flex;
+    height: 2rem;
+    width: 40rem;
+    
+     margin-right: 10rem; 
+    padding: 2rem;
+    margin-bottom: 1rem;
+
+    
+}

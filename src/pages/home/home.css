@@ -1,13 +1,13 @@
-.home__tab{
+/* .home__tab{
     display: flex;
     height: 2rem;
     width: 40rem;
-    /* /margin-right: 0; */
+    
      margin-right: 10rem; 
     padding: 2rem;
     margin-bottom: 1rem;
 
-}
+} */
 .home__books{
     display: grid;
     grid-template-columns: 50% 50%;

@@ -1,5 +1,6 @@
 import React from 'react'
-import './tab-style.css'
+import './tab.css';
+
 const tab = [
     'All Genres',
     'Business',
@@ -9,21 +10,26 @@ const tab = [
     'Biography'
 ]
 
-const Tab = ({element, index, onClick, activeIndex}) => {
+const Tab = ({onClick, activeIndex}) => {
 
     return (
 
         <div className='tab'>
 
-            <div
-                className={`tab__element ${activeIndex === index
-                    ? 'active'
-                    : ''} `}>
-                {<p onClick={() => onClick(index)}>{element}</p>}
+            {
+                tab.map((val, index) => {
+                    return (
+                        <div
+                            className={`tab__element ${activeIndex === index
+                                ? 'active'
+                                : ''} `}>
+                            {<p onClick={() => onClick(index)}>{val}</p>}
 
+                        </div>
+                    )
+                })
 
-            </div>
-
+            }
         </div>
     )
 }

@@ -3,14 +3,6 @@ import BookCard from '../../commons/components/book-card/book-card'
 import Tab from '../../commons/components/tab/tab'
 import './home.css'
 
-const tab = [
-    'All Genres',
-    'Business',
-    'Science',
-    'Fiction',
-    'Philosophy',
-    'Biography'
-]
 
 const Home = () => {
     const [activeIdx, setActiveIdx] = useState(null)
@@ -18,15 +10,10 @@ const Home = () => {
     return (
         <div className="home">
 
-            <div className="home__tab">
-                {
-
-                    tab.map((e, idx) => {
-                        return (
-                            <Tab element={e} index={idx} onClick={setActiveIdx} activeIndex={activeIdx}/>
-                        )
-                    })
-                }
+            <div >
+ 
+                            <Tab onClick={setActiveIdx} activeIndex={activeIdx}/>
+    
 
             </div>
 
