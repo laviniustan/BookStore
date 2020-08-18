@@ -5,7 +5,7 @@ import {BsThreeDotsVertical} from 'react-icons/bs'
 
 import './book-card.css'
 
-const BookCard = () => {
+const BookCard =  () => {
 
     const [rating, setRating] = useState(null)
     //    console.log(rating)

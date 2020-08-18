@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import BookCard from '../../commons/components/book-card/book-card'
 import Tab from '../../commons/components/tab/tab'
-import './home-style.css'
+import './home.css'
 
 const tab = [
     'All Genres',
@@ -23,7 +23,7 @@ const Home = () => {
 
                     tab.map((e, idx) => {
                         return (
-                            <Tab element={e} index={idx} onClick={setActiveIdx} onChange={activeIdx}/>
+                            <Tab element={e} index={idx} onClick={setActiveIdx} activeIndex={activeIdx}/>
                         )
                     })
                 }
@@ -34,9 +34,12 @@ const Home = () => {
 
             <div className="home__books">
                 {
-                    [...Array(5)].map(e => {
-                        return <BookCard/>
-                    })
+                    activeIdx === 0
+                        ? [...Array(5)].map(e => {
+                            return <BookCard/>
+                        })
+                        : <p>{activeIdx}</p>
+
                 }
             </div>
         </div>
