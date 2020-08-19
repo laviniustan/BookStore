@@ -1,0 +1,14 @@
+.search-bar{
+    margin-left: 14px;
+}
+
+.search-bar__input{
+   padding: .5rem; 
+   border: hidden;
+   outline:none;
+   transition: ease-in .2s;
+}
+.search-bar__input:focus{
+ background-color: rgba(221, 220, 220, 0.589);
+
+ }

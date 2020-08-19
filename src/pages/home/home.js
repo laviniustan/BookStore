@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import BookCard from '../../commons/components/book-card/book-card'
 import Tabs from '../../commons/components/tabs/tabs'
+import Header from '../../commons/components/header/header'
 import './home.css'
 
 const tabs = [
@@ -18,12 +19,9 @@ const Home = () => {
     return (
         <div className="home">
 
-            <div >
- 
-                            <Tabs tabs={tabs}onClick={setActiveIdx} activeIndex={activeIdx}/>
-    
+            <Header/>
 
-            </div>
+            <Tabs onClick={setActiveIdx} tabs={tabs} activeIndex={activeIdx}/>
 
             <hr/>
 

@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: baseline;
+    
+}
+.header__name{
+    
+}
+.header__right{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.header__left{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}

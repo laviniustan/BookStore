@@ -1,0 +1,29 @@
+.header-menu{
+    display: flex;
+    align-items: baseline;
+}
+.header-menu >*{
+  margin-left: 4px;
+}
+.header-menu__image--img{
+    height: 3rem;
+    margin-bottom: -17px;
+overflow: hidden;
+
+}
+.header-menu__image{
+    /* margin-left: 2rem; */
+
+    
+   
+}
+.vert-line{
+    margin-top: -.2rem;
+    padding: 6px;
+}
+.hamburger{
+    margin-bottom: 7px;
+    /* position: relative; */
+    /* text-align: center; */
+    align-self: flex-end;
+}
