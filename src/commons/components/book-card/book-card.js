@@ -2,19 +2,24 @@ import React, {useState} from 'react';
 import Stars from '../stars/stars'
 import img from './book.jpg';
 import {BsThreeDotsVertical} from 'react-icons/bs'
+import {useHistory } from 'react-router-dom'
 
 import './book-card.css'
 
-const BookCard =  () => {
+const BookCard =  ({val,key}) => {
+    let history=useHistory()
 
     const [rating, setRating] = useState(null)
-    //    console.log(rating)
+    const url=()=>{
+        console.log(val,key)
+        history.push(`/book/:${val}`)
+    }
     return (
         <div className="book">
             <div className="book__element">
                 <div className="book__element--cardBook">
                     <div className="book__element--img">
-                        <img src={img} alt="img"></img>
+                        <img src={img} alt="img" onClick={url}></img>
                     </div>
 
                     <div className="book__infoCard">

@@ -28,8 +28,9 @@ const Home = () => {
             <div className="home__books">
                 {
                     activeIdx === 0
-                        ? [...Array(5)].map(e => {
-                            return <BookCard/>
+                        ? [...Array(5)].map((e,index) => {
+                            {/* console.log(index,e) */}
+                            return <BookCard val={index} key={index}/>
                         })
                         : <p>{activeIdx}</p>
 
