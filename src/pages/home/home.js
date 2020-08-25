@@ -1,8 +1,11 @@
-import React, {useState} from 'react'
+import React, {useState,useEffect} from 'react'
 import BookCard from '../../commons/components/book-card/book-card'
 import Tabs from '../../commons/components/tabs/tabs'
 import Header from '../../commons/components/header/header'
-import './home.css'
+
+
+
+import './home.css';
 
 const tabs = [
     'All Genres',
@@ -11,11 +14,13 @@ const tabs = [
     'Fiction',
     'Philosophy',
     'Biography'
-]
+];
+
 
 const Home = () => {
     const [activeIdx, setActiveIdx] = useState(null)
 
+    
     return (
         <div className="home">
 
@@ -35,6 +40,8 @@ const Home = () => {
                         : <p>{activeIdx}</p>
 
                 }
+
+
             </div>
         </div>
     )

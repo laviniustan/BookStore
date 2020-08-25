@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState,useEffect} from 'react';
 import Stars from '../stars/stars'
 import img from './book.jpg';
 import {BsThreeDotsVertical} from 'react-icons/bs'
@@ -10,6 +10,7 @@ const BookCard =  ({val,key}) => {
     let history=useHistory()
 
     const [rating, setRating] = useState(null)
+
     const url=()=>{
         console.log(val,key)
      history.push(`/book/:${val}`)

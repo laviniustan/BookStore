@@ -1,0 +1,26 @@
+import React,{useState,useEffect} from 'react'
+
+
+let BookCollection=()=>{
+    const [book, setBook] = useState({})
+    const [ count, setCount ] = useState(0)
+
+    useEffect(()=>{
+           fetch('/book')
+           .then(res=>res.json())
+           .then(setBook)
+           
+       },[count])
+
+    return(
+        <div>
+                   
+
+                {
+                   book.forEach(e=>console.log(e))
+                }
+     
+        </div>
+    )
+}
+export default BookCollection;
