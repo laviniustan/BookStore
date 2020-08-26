@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.send("data")
 });
 
-app.get('/book', (req, res) => {
+app.get(`/book`, (req, res) => {
 
     res.send(data)
 });

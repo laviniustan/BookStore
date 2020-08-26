@@ -2,7 +2,7 @@ import React,{useState,useEffect} from 'react'
 
 
 let BookCollection=()=>{
-    const [book, setBook] = useState({})
+    const [book, setBook] = useState([])
     const [ count, setCount ] = useState(0)
 
     useEffect(()=>{
@@ -17,7 +17,9 @@ let BookCollection=()=>{
                    
 
                 {
-                   book.forEach(e=>console.log(e))
+                   book.map(e=>{
+                       return <h1>{e}</h1>
+                       })
                 }
      
         </div>
