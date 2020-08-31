@@ -1,27 +1,23 @@
-import React,{useState,useEffect} from 'react'
+import React, {useState, useEffect} from 'react';
+import BookCard from '../book-card/book-card'
 
-
-let BookCollection=()=>{
+let BookCollection = () => {
     const [book, setBook] = useState([])
-    const [ count, setCount ] = useState(0)
+    const [count, setCount] = useState(0)
 
-    useEffect(()=>{
-           fetch('/book')
-           .then(res=>res.json())
-           .then(setBook)
-           
-       },[count])
+    useEffect(() => {
+        fetch('/book')
+            .then(res => res.json())
+            .then(setBook)
 
-    return(
+    }, [count])
+
+    return (
         <div>
-                   
 
-                {
-                   book.map(e=>{
-                       return <h1>{e}</h1>
-                       })
-                }
-     
+            {console.log(book)}
+            {book.map(e => console.log(e.volumeInfo))}
+
         </div>
     )
 }

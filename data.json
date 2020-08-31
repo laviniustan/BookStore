@@ -1,0 +1,847 @@
+[
+    {
+        "kind": "books#volume",
+        "id": "9b8sphSYxMgC",
+        "etag": "Zz7liZ4sN8s",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9b8sphSYxMgC",
+        "volumeInfo": {
+            "title": "On Strategy",
+            "subtitle": "A Critical Analysis of the Vietnam War",
+            "authors": ["Harry G. Summers"],
+            "publisher": "Presidio Press",
+            "publishedDate": "2009-02-04",
+            "description": "Stunning in its insight, On Strategy is required reading not just for everyone who is interested in the Vietnam War, but for anyone who is concerned about the place of the United States on the world stage and how America can, and more importantly cannot, employ its immense military force to help bring peace to an increasingly troubled world. “On Stategy is just about the best thing I have read on Vietnam.”—Drew Middleton, The New York Times “Perhaps the most trenchant single postmortem to date of our defeat in Vietnam . . . a classic . . . compact, subtle—and surprisingly readable.”—Newsweek “At our house, we sleep less easily now that Harry G. Summers Jr., Colonel of Infantry, is no longer defending us. After two wars and 38 years of active duty, Summers has retired from the Army. . . . Every taxpayer should mourn his loss. Colonel Summers is perhaps the most influential thinker of our time: his book On Strategy is required reading at the Army and Naval War Colleges.”—Jack Beatty, Boston Globe “This investigation of the U.S. army’s role in the Vietnam War is widely recognized as the single most useful postmortem on the unpopular war.”—The Washington Post Book World “The most detailed exposition of this view—that the U.S. threw away whatever chance for victory it may have had through blunders that must not be repeated—comes from Col. Harry Summers, whose book, On Strategy, has become must reading for young officers.”—Time “A masterful analysis of the strategy, or lack thereof, in the Vietnam War . . . The best critique of the war I have read and a book every policy maker in Washington should absorb.”—Max Cleland, Atlanta Journal-Constitution",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780307558763"
+                }, {
+                    "type": "ISBN_10",
+                    "identifier": "0307558762"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 240,
+            "printType": "BOOK",
+            "categories": ["History"],
+            "averageRating": 4.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.6.4.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=9b8sphSYxMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=9b8sphSYxMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=9b8sphSYxMgC&printsec=frontcover&dq=harry&hl=&cd=1&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=9b8sphSYxMgC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9b8sphSYxMgC"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 53.91,
+                "currencyCode": "RON"
+            },
+            "retailPrice": {
+                "amount": 36.66,
+                "currencyCode": "RON"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=9b8sphSYxMgC&rdid=book-9b8sphSYxMgC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 53910000,
+                        "currencyCode": "RON"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 36660000,
+                        "currencyCode": "RON"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/On_Strategy-sample-epub.acsm?id=9b8sphSYxMgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=9b8sphSYxMgC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Stunning in its insight, On Strategy is required reading not just for everyone who is interested in the Vietnam War, but for anyone who is concerned about the place of the United States on the world stage and how America can, and more ..."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "b0tiitm_9mQC",
+        "etag": "zz1sfys78qI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/b0tiitm_9mQC",
+        "volumeInfo": {
+            "title": "Harry Cat and Tucker Mouse: Harry to the Rescue!",
+            "authors": [
+                "Thea Feldman",
+                "George Selden",
+                "Aleksey & Olga Ivanov",
+                "Garth Williams",
+                "Olga Ivanov",
+                "Aleksey Ivanov"
+            ],
+            "publisher": "Square Fish",
+            "publishedDate": "2011-05-10",
+            "description": "Tucker Mouse spotted a lost penny in the shoeshine store, so he ran in to get it for his collection. Now the store is closed up tight, and Tucker is trapped. Can Harry Cat find a way to get him out? These favorite characters from The Cricket in Times Square star in the brand new-adventure created especially for beginning readers.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781429995887"
+                }, {
+                    "type": "ISBN_10",
+                    "identifier": "1429995882"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 48,
+            "printType": "BOOK",
+            "categories": ["Juvenile Fiction"],
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "0.6.8.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=b0tiitm_9mQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=b0tiitm_9mQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=b0tiitm_9mQC&printsec=frontcover&dq=harry&hl=&cd=2&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=b0tiitm_9mQC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b0tiitm_9mQC"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 34.74,
+                "currencyCode": "RON"
+            },
+            "retailPrice": {
+                "amount": 23.62,
+                "currencyCode": "RON"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=b0tiitm_9mQC&rdid=book-b0tiitm_9mQC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 34740000,
+                        "currencyCode": "RON"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 23620000,
+                        "currencyCode": "RON"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Harry_Cat_and_Tucker_Mouse_Harry_to_the-sample-epub.acsm?id=b0tiitm_9mQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=b0tiitm_9mQC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Tucker Mouse spotted a lost penny in the shoeshine store, so he ran in to get it for his collection."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "wT9DBgAAQBAJ",
+        "etag": "Gp9KcwpV21M",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wT9DBgAAQBAJ",
+        "volumeInfo": {
+            "title": "Adevărul despre cazul Harry Quebert",
+            "authors": ["Joël Dicker"],
+            "publisher": "Trei",
+            "publishedDate": "2013-08-08",
+            "description": "1975, New Hampshire: Nola Kellergan, o adolescentă în vârstă de 15 ani, dispare fără urmă. 33 de ani mai târziu, scriitorul de succes Harry Quebert este acuzat de crimă, atunci când trupul fetei este descoperit în timpul unor săpături în grădina casei sale. Tânărul Marcus Goldman, scriitor în pană de inspirație, nu ezită să plece la New Hampshire și să înceapă propria anchetă pentru a-l ajuta pe Harry, mentorul și prietenul său. Acolo este depășit rapid de evenimente: investigația intră în impas, iar Marcus începe să primească amenințări. Pentru a dovedi nevinovăția lui Harry și a-și salva cariera de scriitor, e absolut necesar să răspundă la trei întrebări: cine a omorât-o pe Nola Kellergan? Ce s-a întâmplat în New Hampshire în vara lui 1975? Și cum se scrie un roman de succes? „Roman noir, roman polițist fără îndoială, dar și roman psihologic cu răsturnări de situație surprinzătoare sau hilare, Adevărul despre cazul Harry Quebert prezintă moravurile societății americane, bine ascunse în spatele unei fațade impecabile.“ – Le Figaro „Exploatând un fapt divers, Joël Dicker a construit un thriller alert care este, în același timp, un roman în roman, un studiu sociologic asupra Americii clasei de mijloc înainte de alegerea la președinție a lui Barack Obama, ancheta unei crime și un curs de literatură. Ca un maestru, Dicker alternează epocile, registrele stilistice (raportul poliției, transcrierea unui interogatoriu, extrase din roman) și explorează America în toate excesele ei – mediatice, literare, religioase, meditând, în același timp, asupra condiției scriitorului. O lecție de scris și o lecție de viață.“ – L’Express „— Știi, a zis el, Nola mi-a schimbat viața. Și puțin ar fi contat pentru mine să devin marele Harry Quebert, uriașul scriitor. Puțin ar fi contat gloria, banii și mărețul meu destin dacă aș fi putut să o păstrez pe Nola. Nimic din ce-am putut face de când ea a dispărut nu a dat atâta sens vieții mele ca vara pe care am petrecut-o împreună. — Pentru prima dată de când îl cunoșteam, îl vedeam pe Harry așa de zguduit. După ce m-a privit o clipă, a adăugat: — Marcus, nimeni n-a știut despre povestea asta. Ești acum singurul care o cunoaște. Și trebuie să păstrezi secretul.“",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9789737078483"
+                }, {
+                    "type": "ISBN_10",
+                    "identifier": "9737078489"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "printType": "BOOK",
+            "categories": ["Fiction"],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.0.0.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=wT9DBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=wT9DBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "ro",
+            "previewLink": "http://books.google.ro/books?id=wT9DBgAAQBAJ&pg=PA323&dq=harry&hl=&cd=3&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=wT9DBgAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wT9DBgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 34,
+                "currencyCode": "RON"
+            },
+            "retailPrice": {
+                "amount": 23.12,
+                "currencyCode": "RON"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=wT9DBgAAQBAJ&rdid=book-wT9DBgAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 34000000,
+                        "currencyCode": "RON"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 23120000,
+                        "currencyCode": "RON"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Adev%C4%83rul_despre_cazul_Harry_Quebert-sample-pdf.acsm?id=wT9DBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=wT9DBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "13 august 1975 Era în jur de ora unsprezece. Încă de la începutul dimineţii, <br>\naşezată pe terasa casei din Goose Cove, Nola transcria cu sârg pe Remingtonul <br>\nsău paginile de manuscris, în vreme ce, în faţa ei, <b>Harry</b> îşi continua lucrul la <br>\nroman."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "b73jDwAAQBAJ",
+        "etag": "7ai2MvLW0rE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/b73jDwAAQBAJ",
+        "volumeInfo": {
+            "title": "Harry, Un Cățel Fara Adapost",
+            "authors": ["Holly Webb"],
+            "publisher": "Grup Editorial Litera",
+            "publishedDate": "2017-03-10",
+            "description": "Pentru că nu poate avea un cățel acasă, Grace are grijă de câinii de la adăpostul pentru animale și îi place să iasă cu ei la plimbare. Mai ales cu Harry, cel mai drăguț cățeluș din rasa Jack Russell. Harry abia așteaptă vizitele lui Grace, iar când este luat acasă de noii stăpâni, bietul de el nu mai înțelege nimic. Oare unde a dispărut draga lui Grace?",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9786063351280"
+                }, {
+                    "type": "ISBN_10",
+                    "identifier": "6063351280"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 128,
+            "printType": "BOOK",
+            "categories": ["Juvenile Fiction"],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.17.13.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=b73jDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=b73jDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "ro",
+            "previewLink": "http://books.google.ro/books?id=b73jDwAAQBAJ&pg=PT18&dq=harry&hl=&cd=4&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=b73jDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b73jDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 18.65,
+                "currencyCode": "RON"
+            },
+            "retailPrice": {
+                "amount": 13.99,
+                "currencyCode": "RON"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=b73jDwAAQBAJ&rdid=book-b73jDwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 18650000,
+                        "currencyCode": "RON"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 13990000,
+                        "currencyCode": "RON"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Harry_Un_C%C4%83%C8%9Bel_Fara_Adapost-sample-epub.acsm?id=b73jDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Harry_Un_C%C4%83%C8%9Bel_Fara_Adapost-sample-pdf.acsm?id=b73jDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=b73jDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Grace mirosea plăcut, şi <b>Harry</b> se întrebă dacă avea să se întoarcă. Sâmbătă, <br>\ncând ea deschise cuşca, el se aşeză în capul oaselor în coş şi, când Grace se <br>\nghemui lângă el, îşi puse lăbuţele pe genunchiul ei, în semn că voia să fie <br>\nmângâiat."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "iO5pApw2JycC",
+        "etag": "HpTkyEy2b1U",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iO5pApw2JycC",
+        "volumeInfo": {
+            "title": "The Ivory Tower and Harry Potter",
+            "subtitle": "Perspectives on a Literary Phenomenon",
+            "authors": ["Lana A. Whited"],
+            "publisher": "University of Missouri Press",
+            "publishedDate": "2004",
+            "description": "Now available in paper, The Ivory Tower and Harry Potter is the first book-length analysis of J. K. Rowling's work from a broad range of perspectives within literature, folklore, psychology, sociology, and popular culture. A significant portion of the book explores the Harry Potter series' literary ancestors, including magic and fantasy works by Ursula K. LeGuin, Monica Furlong, Jill Murphy, and others, as well as previous works about the British boarding school experience. Other chapters explore the moral and ethical dimensions of Harry's world, including objections to the series raised within some religious circles. In her new epilogue, Lana A. Whited brings this volume up to date by covering Rowling's latest book, Harry Potter and the Order of the Phoenix.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0826215491"
+                }, {
+                    "type": "ISBN_13",
+                    "identifier": "9780826215499"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 418,
+            "printType": "BOOK",
+            "categories": ["Literary Criticism"],
+            "averageRating": 4.5,
+            "ratingsCount": 13,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "2.0.5.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=iO5pApw2JycC&pg=PA329&dq=harry&hl=&cd=5&source=gbs_api",
+            "infoLink": "http://books.google.ro/books?id=iO5pApw2JycC&dq=harry&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Ivory_Tower_and_Harry_Potter.html?hl=&id=iO5pApw2JycC"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/The_Ivory_Tower_and_Harry_Potter-sample-epub.acsm?id=iO5pApw2JycC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=iO5pApw2JycC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "<b>Harry</b>. Potter. and. the. Technology. of. Magic. Elizabeth Teare The July/August <br>\n2001 issue of Book lists J. K. Rowling as one of the ten most influential people in <br>\npublishing.1 She shares space on this list with John Grisham and Oprah Winfrey,<br>\n&nbsp;..."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "-__ICQemqaEC",
+        "etag": "M9r0GyOi0d4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/-__ICQemqaEC",
+        "volumeInfo": {
+            "title": "Reading Harry Potter",
+            "subtitle": "Critical Essays",
+            "authors": ["David G. Epstein"],
+            "publisher": "Greenwood Publishing Group",
+            "publishedDate": "2003",
+            "description": "The tropes and themes of J. K. Rowling's massively popular series are interpreted within the context of its audience.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0313320675"
+                }, {
+                    "type": "ISBN_13",
+                    "identifier": "9780313320675"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 217,
+            "printType": "BOOK",
+            "categories": ["Literary Criticism"],
+            "averageRating": 5,
+            "ratingsCount": 8,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.2.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=-__ICQemqaEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=-__ICQemqaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=-__ICQemqaEC&pg=PA191&dq=harry&hl=&cd=6&source=gbs_api",
+            "infoLink": "http://books.google.ro/books?id=-__ICQemqaEC&dq=harry&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Reading_Harry_Potter.html?hl=&id=-__ICQemqaEC"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Reading_Harry_Potter-sample-epub.acsm?id=-__ICQemqaEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Reading_Harry_Potter-sample-pdf.acsm?id=-__ICQemqaEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=-__ICQemqaEC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Most importantly, the <b>Harry</b> Potter books resonate with gender stereotypes of the <br>\nworst sort; as Christine Schoefer argues in her review of the first three books in <br>\nthe series, &quot;From the beginning . . . , it is boys and men, wizards and sorcerers,&nbsp;..."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "DKcWE3WXoj8C",
+        "etag": "ygTUBIWD234",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/DKcWE3WXoj8C",
+        "volumeInfo": {
+            "title": "Harry Potter and International Relations",
+            "authors": [
+                "Daniel H. Nexon", "Iver B. Neumann"
+            ],
+            "publisher": "Rowman & Littlefield",
+            "publishedDate": "2006",
+            "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0742539598"
+                }, {
+                    "type": "ISBN_13",
+                    "identifier": "9780742539594"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 245,
+            "printType": "BOOK",
+            "categories": ["Literary Criticism"],
+            "averageRating": 3.5,
+            "ratingsCount": 7,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=DKcWE3WXoj8C&printsec=frontcover&dq=harry&hl=&cd=7&source=gbs_api",
+            "infoLink": "http://books.google.ro/books?id=DKcWE3WXoj8C&dq=harry&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_International_Relations.html?hl=&id=DKcWE3WXoj8C"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Harry_Potter_and_International_Relations-sample-pdf.acsm?id=DKcWE3WXoj8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=DKcWE3WXoj8C&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry&#39;s world contain aspects of our own."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "0rCKhcur8XkC",
+        "etag": "OdrWCk8gvLQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0rCKhcur8XkC",
+        "volumeInfo": {
+            "title": "Children, Childhood and English Society, 1880-1990",
+            "authors": [
+                "Harry Hendrick", "Pamela Horn", "Hendrick Harry"
+            ],
+            "publisher": "Cambridge University Press",
+            "publishedDate": "1997-10-09",
+            "description": "Unique guide to the main developments in adult-child relations during the last one hundred years.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0521572533"
+                }, {
+                    "type": "ISBN_13",
+                    "identifier": "9780521572538"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 114,
+            "printType": "BOOK",
+            "categories": ["History"],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0rCKhcur8XkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0rCKhcur8XkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=0rCKhcur8XkC&printsec=frontcover&dq=harry&hl=&cd=8&source=gbs_api",
+            "infoLink": "http://books.google.ro/books?id=0rCKhcur8XkC&dq=harry&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Children_Childhood_and_English_Society_1.html?hl=&id=0rCKhcur8XkC"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=0rCKhcur8XkC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Unique guide to the main developments in adult-child relations during the last one hundred years."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "yrLfrVgU6CsC",
+        "etag": "VfF5si+EvlE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yrLfrVgU6CsC",
+        "volumeInfo": {
+            "title": "Sensory Evaluation of Food",
+            "subtitle": "Principles and Practices",
+            "authors": [
+                "Harry T. Lawless", "Hildegarde Heymann"
+            ],
+            "publisher": "Springer Science & Business Media",
+            "publishedDate": "2010-09-27",
+            "description": "The ?eld of sensory science has grown exponentially since the publication of the p- vious version of this work. Fifteen years ago the journal Food Quality and Preference was fairly new. Now it holds an eminent position as a venue for research on sensory test methods (among many other topics). Hundreds of articles relevant to sensory testing have appeared in that and in other journals such as the Journal of Sensory Studies. Knowledge of the intricate cellular processes in chemoreception, as well as their genetic basis, has undergone nothing less than a revolution, culminating in the award of the Nobel Prize to Buck and Axel in 2004 for their discovery of the olfactory receptor gene super family. Advances in statistical methodology have accelerated as well. Sensometrics meetings are now vigorous and well-attended annual events. Ideas like Thurstonian modeling were not widely embraced 15 years ago, but now seem to be part of the everyday thought process of many sensory scientists. And yet, some things stay the same. Sensory testing will always involve human participants. Humans are tough measuring instruments to work with. They come with varying degrees of acumen, training, experiences, differing genetic equipment, sensory capabilities, and of course, different preferences. Human foibles and their associated error variance will continue to place a limitation on sensory tests and actionable results. Reducing, controlling, partitioning, and explaining error variance are all at the heart of good test methods and practices.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1441964886"
+                }, {
+                    "type": "ISBN_13",
+                    "identifier": "9781441964885"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 596,
+            "printType": "BOOK",
+            "categories": ["Technology & Engineering"],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.17.18.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=yrLfrVgU6CsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=yrLfrVgU6CsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=yrLfrVgU6CsC&printsec=frontcover&dq=harry&hl=&cd=9&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=yrLfrVgU6CsC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yrLfrVgU6CsC"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 327.93,
+                "currencyCode": "RON"
+            },
+            "retailPrice": {
+                "amount": 229.55,
+                "currencyCode": "RON"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=yrLfrVgU6CsC&rdid=book-yrLfrVgU6CsC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 327930000,
+                        "currencyCode": "RON"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 229550000,
+                        "currencyCode": "RON"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Sensory_Evaluation_of_Food-sample-epub.acsm?id=yrLfrVgU6CsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Sensory_Evaluation_of_Food-sample-pdf.acsm?id=yrLfrVgU6CsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=yrLfrVgU6CsC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The ?eld of sensory science has grown exponentially since the publication of the p- vious version of this work."
+        }
+    }, {
+        "kind": "books#volume",
+        "id": "abYKXvCwEToC",
+        "etag": "78Z5Pt5dsxs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/abYKXvCwEToC",
+        "volumeInfo": {
+            "title": "Harry Potter",
+            "subtitle": "The Story of a Global Business Phenomenon",
+            "authors": ["S. Gunelius"],
+            "publisher": "Springer",
+            "publishedDate": "2008-06-03",
+            "description": "The Harry Potter books are the bestselling books of all time. In this fascinating study, Susan Gunelius analyzes every aspect of the brand phenomenon that is Harry Potter. Delving into price wars, box office revenue, and brand values, amongst other things, this is the story of the most incredible brand success there has ever been.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780230594104"
+                }, {
+                    "type": "ISBN_10",
+                    "identifier": "0230594107"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 194,
+            "printType": "BOOK",
+            "categories": ["Business & Economics"],
+            "averageRating": 3,
+            "ratingsCount": 8,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "2.3.5.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=abYKXvCwEToC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=abYKXvCwEToC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.ro/books?id=abYKXvCwEToC&pg=PR11&dq=harry&hl=&cd=10&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC"
+        },
+        "saleInfo": {
+            "country": "RO",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 316.42,
+                "currencyCode": "RON"
+            },
+            "retailPrice": {
+                "amount": 221.49,
+                "currencyCode": "RON"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC&rdid=book-abYKXvCwEToC&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 316420000,
+                        "currencyCode": "RON"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 221490000,
+                        "currencyCode": "RON"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "RO",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Harry_Potter-sample-epub.acsm?id=abYKXvCwEToC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.ro/books/download/Harry_Potter-sample-pdf.acsm?id=abYKXvCwEToC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=abYKXvCwEToC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Dissecting the success of J.K. Rowling and the <b>Harry</b> Potter series from a <br>\nbusiness perspective is an interesting challenge. The business and societal <br>\neffects of a trend that becomes a phenomenon are far-reaching and often deeply <br>\nemotional."
+        }
+    }
+]

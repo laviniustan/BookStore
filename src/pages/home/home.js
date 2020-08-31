@@ -1,26 +1,32 @@
-import React, {useState,useEffect} from 'react'
+import React, {useState, useEffect} from 'react'
 import BookCard from '../../commons/components/book-card/book-card'
 import Tabs from '../../commons/components/tabs/tabs'
 import Header from '../../commons/components/header/header'
 
-
-
 import './home.css';
+import {GiConsoleController} from 'react-icons/gi';
 
 const tabs = [
     'All Genres',
-    'Business',
-    'Science',
+    'History',
+    'Drama',
     'Fiction',
-    'Philosophy',
+    'Technology & Engineering',
     'Biography'
 ];
 
-
 const Home = () => {
-    const [activeIdx, setActiveIdx] = useState(null)
+    const [activeIdx, setActiveIdx] = useState('All Genres')
+    const [book, setBook] = useState([])
+    const [count, setCount] = useState(0)
 
-    
+    useEffect(() => {
+        fetch('/book')
+            .then(res => res.json())
+            .then(setBook)
+
+    }, [count])
+
     return (
         <div className="home">
 
@@ -28,19 +34,25 @@ const Home = () => {
 
             <Tabs onClick={setActiveIdx} tabs={tabs} activeIndex={activeIdx}/>
 
-            <hr/>
-
+            <hr/> 
             <div className="home__books">
                 {
-                    activeIdx === 0
-                        ? [...Array(5)].map((e,index) => {
-                            {/* console.log(index,e) */}
-                            return <BookCard val={index} key={index}/>
+                    activeIdx === 'All Genres'
+                        ? book.map((e, index) => {
+
+                            return <BookCard val={e} key={e.id} id={e.id}/>
                         })
-                        : <p>{activeIdx}</p>
+
+                        : book.map((e, index) => {
+                          return  e.volumeInfo.categories.map(elem=>{
+                           
+                          { if(elem===activeIdx)return <BookCard val={e} key={e.id} id={e.id}/>}
+                            })
+                            
+
+                        })
 
                 }
-
 
             </div>
         </div>

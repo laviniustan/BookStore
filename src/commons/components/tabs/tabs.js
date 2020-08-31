@@ -16,7 +16,7 @@ const Tabs = ({tabs,onClick, activeIndex}) => {
                             className={`tabs__element ${activeIndex === index
                                 ? 'active'
                                 : ''} `}>
-                            {<p onClick={() => onClick(index)}>{val}</p>}
+                            {<p onClick={() => onClick(val)}>{val}</p>}
 
                         </div>
                     )
