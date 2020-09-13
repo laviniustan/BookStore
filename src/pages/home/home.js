@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react'
 import BookCard from '../../commons/components/book-card/book-card'
 import Tabs from '../../commons/components/tabs/tabs'
 import Header from '../../commons/components/header/header'
+import Slideshow from '../../commons/components/slideshow/slideshow'
 
 import './home.css';
 import {GiConsoleController} from 'react-icons/gi';
@@ -31,7 +32,8 @@ const Home = () => {
         <div className="home">
 
             <Header/>
-
+      
+            <Slideshow val={book} />
             <Tabs onClick={setActiveIdx} tabs={tabs} activeIndex={activeIdx}/>
 
             <hr/> 

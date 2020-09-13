@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import Stars from '../stars/stars'
-import img from './book.jpg';
+
 import {BsThreeDotsVertical} from 'react-icons/bs'
 import {useHistory} from 'react-router-dom'
 
@@ -43,7 +43,7 @@ const BookCard = ({val, key, id}) => {
                             <p>You rate: {rating}</p>
                         </div>
 
-                        <p>{val.volumeInfo.description}</p>
+                        <p className="details--description">{val.volumeInfo.description}</p>
                     </div>
 
                 </div>

@@ -7,7 +7,7 @@ const BookInfo = () => {
 
     return (
         <div>
-            {console.log(location.state.val.volumeInfo.title)}
+            
             {}
             <div className="details">
 
@@ -16,7 +16,8 @@ const BookInfo = () => {
                 <p>{location.state.val.volumeInfo.subtitle}</p>
                 <p>author: {location.state.val.volumeInfo.authors}</p>
 
-                <p>{location.state.val.volumeInfo.description}</p>
+                <p >{location.state.val.volumeInfo.description}</p>
+                <p ></p>
 
             </div>
         </div>
