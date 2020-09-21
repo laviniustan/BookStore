@@ -2,32 +2,53 @@ import React, {useState, useEffect} from 'react';
 import Stars from '../stars/stars'
 
 import {BsThreeDotsVertical} from 'react-icons/bs'
-import {useHistory} from 'react-router-dom'
+import {useHistory, useParams,Link} from 'react-router-dom'
 
 import './book-card.css'
 
 const BookCard = ({val, key, id}) => {
-    let history = useHistory()
+    let {parh} = useParams()
+    let history= useHistory()
 
     const [rating, setRating] = useState(null)
-
-    const url = () => {
-        console.log(id, key)
-        history.push({
-            pathname: `/book/:${id}`,
-            state: {
-                id: id,
-                val: val
-            }
-        })
-    }
-
+    console.log(parh)
+    // const url = () => {
+    //     console.log(id, key)
+    //     // history.push({
+    //     //     pathname: `/book/${id}`,
+    //         // state: {
+    //         //     id: id,
+    //         //     val: val
+    //         // }
+    //     // })
+    // }
+ 
     return (
         <div className="book">
+       
             <div className="book__element">
                 <div className="book__element--cardBook">
                     <div className="book__element--img">
-                        <img src={val.volumeInfo.imageLinks.thumbnail} alt="img" onClick={url}></img>
+                    <Link to={{
+                                pathname: `book/${id}`,
+                              
+                         
+                                state: {
+                                            id: id,
+                                            val: val
+                                        }
+                            }}> <img src={val.volumeInfo.imageLinks.thumbnail} alt="img" ></img></Link>
+                           
+                    {/* <Link
+                            to={{
+                                pathname: "/courses",
+                                search: "?sort=name",
+                                hash: "#the-hash",
+                                state: { fromDashboard: true }
+                            }}
+                            /> */}
+
+                    
                     </div>
 
                     <div className="book__infoCard">

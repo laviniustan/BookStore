@@ -18,7 +18,7 @@ const tabs = [
 
 const Home = () => {
     const [activeIdx, setActiveIdx] = useState('All Genres')
-    const [book, setBook] = useState([])
+    const [books, setBook] = useState([])
     const [count, setCount] = useState(0)
 
     useEffect(() => {
@@ -33,22 +33,22 @@ const Home = () => {
 
             <Header/>
       
-            <Slideshow val={book} />
+            <Slideshow val={books} />
             <Tabs onClick={setActiveIdx} tabs={tabs} activeIndex={activeIdx}/>
 
             <hr/> 
             <div className="home__books">
                 {
                     activeIdx === 'All Genres'
-                        ? book.map((e, index) => {
+                        ? books.map((value, index) => {
 
-                            return <BookCard val={e} key={e.id} id={e.id}/>
+                            return <BookCard val={value} key={value.id} id={value.id}/>
                         })
 
-                        : book.map((e, index) => {
-                          return  e.volumeInfo.categories.map(elem=>{
+                        : books.map((value, index) => {
+                          return  value.volumeInfo.categories.map(elem=>{
                            
-                          { if(elem===activeIdx)return <BookCard val={e} key={e.id} id={e.id}/>}
+                          { if(elem===activeIdx)return <BookCard val={value} key={value.id} id={value.id}/>}
                             })
                             
 

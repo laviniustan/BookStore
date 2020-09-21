@@ -30,5 +30,27 @@ app.get(`/book`, async (req, res) => {
     // res.json(response) console.log(json);   fs.writeFileSync('data.js','123');
     res.send(data)
 });
+app.get(`/book/id`, async (req, res) => {
+    // console.log(req)
+    // header 39
+     const url=req.headers.referer
+     url.split('/')
+    
+     let id=url.slice(27)
+     console.log(id)
+    // console.log(data)
+    // for(let elem in data){
+    //     console.log(elem)
+    // }
+    for(let rlrm of data){
+        
+        if(rlrm.id===id){
+             SendBook=rlrm
+    //  console.log(SendBook)
+
+        }
+    }
+     res.send(SendBook)
+});
 
 app.listen(PORT, () => console.log(`App running on port ${PORT}!`),);

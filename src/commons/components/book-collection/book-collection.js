@@ -3,18 +3,18 @@ import BookCard from '../book-card/book-card'
 
 let BookCollection = () => {
     const [book, setBook] = useState([])
-    const [count, setCount] = useState(0)
+   
 
     useEffect(() => {
         fetch('/book')
             .then(res => res.json())
             .then(setBook)
 
-    }, [count])
-
+    },0)
+    console.log("hello")
     return (
         <div>
-
+            
             {console.log(book)}
             {book.map(e => console.log(e.volumeInfo))}
 
