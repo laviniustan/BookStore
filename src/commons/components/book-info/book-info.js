@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import {useLocation, useParams, withRouter} from 'react-router-dom'
+import {withRouter} from 'react-router-dom'
 import Header from '../header/header'
 
 const BookInfo = () => {
