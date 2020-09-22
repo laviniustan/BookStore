@@ -19,25 +19,32 @@ const tabs = [
 const Home = () => {
     const [activeIdx, setActiveIdx] = useState('All Genres')
     const [books, setBook] = useState([])
-    const [count, setCount] = useState(0)
+   
 
     useEffect(() => {
         fetch('/book')
             .then(res => res.json())
             .then(setBook)
 
-    }, [count])
+    }, [])
 
     return (
+        
         <div className="home">
+        
 
             <Header/>
-      
+            
             <Slideshow val={books} />
             <Tabs onClick={setActiveIdx} tabs={tabs} activeIndex={activeIdx}/>
-
+            
             <hr/> 
             <div className="home__books">
+           
+                {/* {
+                    console.log(books.volumeInfo.title)
+                } */}
+                
                 {
                     activeIdx === 'All Genres'
                         ? books.map((value, index) => {
